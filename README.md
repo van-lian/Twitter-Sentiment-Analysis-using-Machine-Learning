@@ -1,6 +1,3 @@
-# Twitter-Sentiment-Analysis-using-Machine-Learning
-
-
 # ✈️ Airline Tweet Sentiment Analysis using Machine Learning
 
 This project builds a **sentiment classification model** for airline-related tweets using multiple **text representation techniques** and a **Random Forest Classifier**.  
