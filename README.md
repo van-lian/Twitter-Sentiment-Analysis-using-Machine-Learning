@@ -50,18 +50,6 @@ Evaluation was performed using **Stratified 10-Fold Cross-Validation** to preser
 
 ---
 
-## 🔍 Analytical Insights
-- **Best Representation:**  
-  Pre-trained embeddings such as **GloVe** or **FastText** tend to perform best for short, informal texts like tweets because they capture **semantic meaning and word context** better than BoW or TF-IDF.
-  
-- **Effect of Handling Imbalance:**  
-  Applying SMOTE significantly improved the detection of minority classes and reduced model bias toward majority sentiment categories.
-
-- **General Observation:**  
-  Traditional methods (BoW, TF-IDF) are simple and efficient but limited to word frequency patterns, while embedding-based models generalize better for real-world tweet data.
-
----
-
 ## 🧠 Tech Used
 - **Python 3.12**
 - **scikit-learn**
